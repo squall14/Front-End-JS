@@ -1,2 +1,4 @@
-# Front-End-JS
-Front - End JS para aula virtual
+# CorreCaminos
+Miguel León
+Preentrega
+ con imágenes locales y diseño responsive.
